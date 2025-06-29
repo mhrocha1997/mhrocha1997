@@ -4,7 +4,7 @@
   <li>Graduated in Computer Engineering</li>
   <li>Four years of experience with Software Development</li>
   <li>Three years focused on building microservices with Python frameworks and other languages</li>
-  <li>Since then seeking for experience with infrastructure, SRE, DevOps and now 100% focused on this</li>
+  <li>1+ year specialization in infrastructure and SRE/DevOps</li>
 </ul>
 
 
