@@ -1,5 +1,4 @@
 <h1 align="center"> Hi, there! I'm Marcelo! </h1>
-<h3>In a journey to become a SRE</h3>
 <ul>
   <li>Graduated in Computer Engineering</li>
   <li>Four years of experience with Software Development</li>
